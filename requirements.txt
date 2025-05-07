@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+#comando para instalar 
+# pip install -r .\requerimenst.txt
